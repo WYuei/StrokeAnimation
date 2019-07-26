@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>Resource/icon/Action.png</file>
+        <file>Resource/icon/AddKey.png</file>
+        <file>Resource/icon/Animation.png</file>
+        <file>Resource/icon/DeleteKey.png</file>
+        <file>Resource/icon/open.png</file>
+        <file>Resource/icon/pencil.png</file>
+        <file>Resource/icon/save.png</file>
+        <file>Resource/icon/mousepen.png</file>
+        <file>Resource/icon/AnimationCreate.png</file>
+        <file>Resource/icon/eraser.png</file>
+        <file>Resource/icon/New.png</file>
+        <file>Resource/icon/Active.png</file>
+        <file>Resource/icon/Lines.png</file>
+        <file>Resource/icon/Line.PNG</file>
+        <file>Resource/icon/Black.png</file>
+        <file>Resource/icon/Green.png</file>
+        <file>Resource/icon/White.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+    </qresource>
+</RCC>

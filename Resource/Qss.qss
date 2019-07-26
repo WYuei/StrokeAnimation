@@ -1,0 +1,22 @@
+QRadioButton
+{
+font-size: 15px;
+}
+QRadioButton::indicator {
+    width: 12px;
+    height: 32px;
+}
+
+QRadioButton::indicator::unchecked {
+    image: url(:/Qss/unchecked.png);
+}
+
+QRadioButton::indicator:unchecked:hover {
+    image: url(:/Qss/unchecked_hover.png);
+}
+
+QRadioButton::indicator:checked {
+    image: url(:/Qss/checked.png);
+}
+
+
